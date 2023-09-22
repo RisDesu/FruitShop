@@ -1,0 +1,5 @@
+Entity\Order.class
+Manager\Main.class
+Manager\Validation.class
+Manager\Manager.class
+Entity\Fruit.class
